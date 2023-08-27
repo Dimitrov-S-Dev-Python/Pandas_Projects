@@ -1,7 +1,7 @@
 # <p align="center"> ![alt text](https://github.com/Dimitrov-S-Dev-Python/Pandas_Projects/blob/master/pandas.jpg) <p>
 # Pandas Projects
 ## 1.Ecommerce Purchases
-[Dataset link Included](https://github.com/Dimitrov-S-Dev-Python/Pandas_Projects/blob/master/Ecommerce%20Purchases/Ecommerce_Purchases.ipynb)
+[Dataset link Included](https://github.com/Dimitrov-S-Dev-Python/Pandas_Projects/blob/master/1.Ecommerce%20Purchases/Ecommerce_Purchases.ipynb)
 
 ---
 [SQL Server Management Studio](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?redirectedfrom=MSDN&view=sql-server-ver15)
