@@ -5,7 +5,7 @@
 
 ---
 ## 2.Salaries
-[Dataset link Included](https://github.com/Dimitrov-S-Dev-Python/Sales_Analysis_PBI/blob/master/2.Business%20Request%20%26%20Demand%20Overview/Business%20Demand%20Overview%20%26%20User%20Stories%20(Filled%20Out).docx)
+[Dataset link Included](https://github.com/Dimitrov-S-Dev-Python/Pandas_Projects/blob/master/2.Salaries/Salaries.ipynb)
 
 ---
 ## 3.Data Cleaning & Transformation
