@@ -1,7 +1,7 @@
-# <p align="center"> ![alt text](https://github.com/Dimitrov-S-Dev-Python/Sales_Analysis_PBI/blob/master/sql.png) <p>
-# Project Description
-## 1.Set Up
-[SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
+# <p align="center"> ![alt text](https://github.com/Dimitrov-S-Dev-Python/Pandas_Projects/blob/master/pandas.jpg) <p>
+# Pandas Projects
+## 1.Ecommerce Purchases
+[Dataset link Included](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 
 ---
 [SQL Server Management Studio](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?redirectedfrom=MSDN&view=sql-server-ver15)
