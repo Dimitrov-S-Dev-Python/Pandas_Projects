@@ -8,8 +8,8 @@
 [Dataset link Included](https://github.com/Dimitrov-S-Dev-Python/Pandas_Projects/blob/master/2.Salaries/Salaries.ipynb)
 
 ---
-## 3.Data Cleaning & Transformation
-[Data Cleaning & Transformation](https://github.com/Dimitrov-S-Dev-Python/Sales_Analysis_PBI/tree/master/3.Data%20Cleaning_%26_Transformation)
+## 3.Adult
+[Dataset link Included](https://github.com/Dimitrov-S-Dev-Python/Sales_Analysis_PBI/tree/master/3.Data%20Cleaning_%26_Transformation)
 
 ---
 ## 4.Creating Dashboards
