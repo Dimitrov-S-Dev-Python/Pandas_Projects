@@ -8,15 +8,23 @@
 [Dataset link Included](https://github.com/Dimitrov-S-Dev-Python/Pandas_Projects/blob/master/2.Salaries/Salaries.ipynb)
 
 ---
-## 3.Adult
-[Dataset link Included](https://github.com/Dimitrov-S-Dev-Python/Pandas_Projects/blob/master/3.Adult/Adult%20.ipynb)
+## 3.Adult Income
+[Dataset link Included](https://github.com/Dimitrov-S-Dev/Pandas_Projects/blob/master/3.Adult_Income/Adult_Income.ipynb)
 
 ---
 ## 4.Titanic
 [Dataset link Included](https://github.com/Dimitrov-S-Dev-Python/Pandas_Projects/blob/master/4.Titanic/Titanic.ipynb)
 
 ---
-## 5.
-[Dataset link Included](https://app.powerbi.com/view?r=eyJrIjoiZjJmNGFlYWQtN2VlNi00OWE5LTk2OWYtNWY1ZGZjNTAwNjRhIiwidCI6ImYzODM5ZWQ3LWU3NjItNDA0MS04MmNmLWFlZDEwNTcyYjE0ZiIsImMiOjl9)
+## 5.IMDB
+[Dataset link Included](https://github.com/Dimitrov-S-Dev/Pandas_Projects/blob/master/5.IMDB/zerotopandas-course-project.ipynb)
+
+---
+## 6.Udemy Courses
+[Dataset link Included](https://github.com/Dimitrov-S-Dev/Pandas_Projects/blob/master/6.Udemy_Courses/Udemy%20Courses.ipynb)
+
+---
+## 7.Google Play Store
+[Dataset link Included](https://github.com/Dimitrov-S-Dev/Pandas_Projects/blob/master/7.Google_Play_Store/Google%20Play%20Store.ipynb)
 
 ---
